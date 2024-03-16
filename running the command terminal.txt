@@ -1,0 +1,2 @@
+cd C:\Users\doire\OneDrive\FAMILY STUFF\Meals\website
+streamlit run app.py

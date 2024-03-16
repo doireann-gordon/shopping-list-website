@@ -46,3 +46,5 @@ if not filtered_df.empty:
 else:
     st.warning('Please select a meal with pantry ingredients.')
 
+# Define url name
+    baseUrlPath = "doireanns-shopping-list"
